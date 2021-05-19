@@ -1,0 +1,8 @@
+[{
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "Beyond",
+		"package_name": "com.beyond.staging",
+		"sha256_cert_fingerprints": ["51:F1:43:27:DF:9F:DA:30:9F:47:A2:DE:1E:BC:4A:F8:A4:3E:4D:02:4D:80:75:05:31:81:6C:EE:29:BE:5B:09"]
+	}
+}]
