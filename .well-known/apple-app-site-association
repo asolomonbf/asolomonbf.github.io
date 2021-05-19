@@ -1,10 +1,9 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "Z2498M23JJ.com.beyondfinance.bfmobile.staging",
-            "paths": ["/Contact", “/Disclosures"]
-            }
-        ]
-    }
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "Z2498M23JJ.com.beyondfinance.bfmobile.staging",
+			"paths": ["/Contact", "/Disclosures"]
+		}]
+	}
 }
