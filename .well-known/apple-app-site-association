@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [{
 			"appID": "Z2498M23JJ.com.beyondfinance.bfmobile.staging",
-			"paths": ["/contact", "/disclosures","/dashboard","/account","/debt","/terms-of-use","/privacy-notice","/privacy-policy","/do-not-sell-info","/cali-privacy-notice"]
-		}]
+			"paths": ["/account/*"]
+			   }]
 	}
 }
